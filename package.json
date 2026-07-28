@@ -1,0 +1,23 @@
+{
+  "name": "humanizer-index",
+  "version": "1.0.0",
+  "description": "AI Humanizers Comparison Guide",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/George-Kay540/Humanizer-Index.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/George-Kay540/Humanizer-Index/issues"
+  },
+  "homepage": "https://github.com/George-Kay540/Humanizer-Index#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
