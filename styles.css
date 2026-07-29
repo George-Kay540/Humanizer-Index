@@ -256,7 +256,7 @@
   }
   .card-desc {
     margin: 0;
-    font-size: 13.5px;
+    font-size: 15px;
     line-height: 1.65;
     color: var(--text-muted);
   }
